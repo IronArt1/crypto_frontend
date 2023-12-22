@@ -1,3 +1,7 @@
-export NODE_OPTIONS=--openssl-legacy-provider
+brew update 
+
+brew install node
+
 nmp install
+
 npm start
