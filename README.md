@@ -1,5 +1,7 @@
+only for Mac:  
 brew update 
 
+only for Mac:  
 brew install node
 
 nmp install
